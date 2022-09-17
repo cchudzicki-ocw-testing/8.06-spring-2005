@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section provides links to experiments related to the course topics.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Related Resources
